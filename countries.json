@@ -1,91 +1,120 @@
 [ 
-    {
-      "abbr": "AF",
-      "name": "Afghanistan",
-      "capital": "Kabul",
-      "lat": "34.543896",
-      "long": "69.2075"
-    },
-    {
-      "abbr": "AX",
-      "name": "Åland Islands",
-      "capital": "Mariehamn",
-      "lat": "60.1785247",
-      "long": "19.9156"
-    },
-    {
-      "abbr": "AL",
-      "name": "Albania",
-      "capital": "Tirana",
-      "lat": "41.1533",
-      "long": "20.1683"
-    },
-    {
-      "abbr": "DZ",
-      "name": "Algeria",
-      "capital": "Algiers",
-      "lat": "28.0339",
-      "long": "1.6596"
-    },
-    {
-      "abbr": "AS",
-      "name": "American Samoa",
-      "capital": "Pago Pago",
-      "lat": "14.2710",
-      "long": "170.1322"
-    },
-    {
-      "abbr": "AD",
-      "name": "Andorra",
-      "capital": "Andorra la Vella",
-      "lat": "42.5063",
-      "long": "1.5218"
-    },
-    {
-      "abbr": "AO",
-      "name": "Angola",
-      "capital": "Luanda",
-      "lat": "11.2027",
-      "long": "17.8739"
-    },
-    {
-      "abbr": "AI",
-      "name": "Anguilla",
-      "capital": "The Valley",
-      "lat": "18.2206",
-      "long": "63.0686"
-    },
-    {
-      "abbr": "AQ",
-      "name": "Antarctica",
-      "capital": "ice-covered landmass",
-      "lat": "82.8628",
-      "long": "135.0000"
-    },
-    {
-      "abbr": "AG",
-      "name": "Antigua and Barbuda",
-      "capital": "Saint John's",
-      "lat": "17.0608",
-      "long": "61.7964"
-    },
-    {
-      "abbr": "AR",
-      "name": "Argentina",
-      "capital": "Buenos Aires",
-      "lat": "38.4161",
-      "long": "63.6167"
-    },
-  
-  
+  {
+    "abbr": "AF",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "lat": "34.543896",
+    "long": "69.2075"
+  },
+  {
+    "abbr": "AX",
+    "name": "Åland Islands",
+    "capital": "Mariehamn",
+    "lat": "60.1785247",
+    "long": "19.9156"
+  },
+  {
+    "abbr": "AL",
+    "name": "Albania",
+    "capital": "Tirana",
+    "lat": "41.1533",
+    "long": "20.1683"
+  },
+  {
+    "abbr": "DZ",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "lat": "28.0339",
+    "long": "1.6596"
+  },
+  {
+    "abbr": "AS",
+    "name": "American Samoa",
+    "capital": "Pago Pago",
+    "lat": "14.2710",
+    "long": "170.1322"
+  },
+  {
+    "abbr": "AD",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "lat": "42.5063",
+    "long": "1.5218"
+  },
+  {
+    "abbr": "AO",
+    "name": "Angola",
+    "capital": "Luanda",
+    "lat": "11.2027",
+    "long": "17.8739"
+  },
+  {
+    "abbr": "AI",
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "lat": "18.2206",
+    "long": "63.0686"
+  },
+  {
+    "abbr": "AQ",
+    "name": "Antarctica",
+    "capital": "ice-covered landmass",
+    "lat": "82.8628",
+    "long": "135.0000"
+  },
+  {
+    "abbr": "AG",
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "lat": "17.0608",
+    "long": "61.7964"
+  },
+  {
+    "abbr": "AR",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "lat": "38.4161",
+    "long": "63.6167"
+  },
+  {
+    "abbr": "AM",
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "lat": "40.0691",
+    "long": "45.0382"
+  },
+  {
+    "abbr": "AW",
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "lat": "12.5211",
+    "long": "69.9683"
+  },
+  {
+    "abbr": "AU",
+    "name": "Australia",
+    "capital": "Canberra",
+    "lat": "25.27441",
+    "long": "133.7751"
+  },
+  {
+    "abbr": "AT",
+    "name": "Austria",
+    "capital": "Vienna",
+    "lat": "47.51621",
+    "long": "14.5501"
+  },
+  {
+    "abbr": "AZ",
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "lat": "47.5769",
+    "long": "47.5769"
+  },
    
- 
- 
-  // {name: 'Armenia', code: 'AM'}, 
-  // {name: 'Aruba', code: 'AW'}, 
-  // {name: 'Australia', code: 'AU'}, 
-  // {name: 'Austria', code: 'AT'}, 
-  // {name: 'Azerbaijan', code: 'AZ'}, 
+
+  
+  
   // {name: 'Bahamas', code: 'BS'}, 
   // {name: 'Bahrain', code: 'BH'}, 
   // {name: 'Bangladesh', code: 'BD'}, 
@@ -108,13 +137,27 @@
   // {name: 'Burundi', code: 'BI'}, 
   // {name: 'Cambodia', code: 'KH'}, 
   // {name: 'Cameroon', code: 'CM'}, 
-  // {name: 'Canada', code: 'CA'}, 
+ 
+  {
+    "abbr": "CA",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "lat": "56.1304",
+    "long": "106.3468"
+  }, 
   // {name: 'Cape Verde', code: 'CV'}, 
   // {name: 'Cayman Islands', code: 'KY'}, 
   // {name: 'Central African Republic', code: 'CF'}, 
   // {name: 'Chad', code: 'TD'}, 
   // {name: 'Chile', code: 'CL'}, 
-  // {name: 'China', code: 'CN'}, 
+ 
+  {
+    "abbr": "CN",
+    "name": "China",
+    "capital": "Beijing",
+    "lat": "35.8617",
+    "long": "104.1954"
+  }, 
   // {name: 'Christmas Island', code: 'CX'}, 
   // {name: 'Cocos (Keeling) Islands', code: 'CC'}, 
   // {name: 'Colombia', code: 'CO'}, 
@@ -173,80 +216,98 @@
   // {name: 'India', code: 'IN'}, 
   // {name: 'Indonesia', code: 'ID'}, 
   // {name: 'Iran, Islamic Republic Of', code: 'IR'}, 
-  // {name: 'Iraq', code: 'IQ'}, 
-  // {name: 'Ireland', code: 'IE'}, 
-  // {name: 'Isle of Man', code: 'IM'}, 
- 
-    {
-      "abbr": "IL",
-      "name": "Israel",
-      "capital": "Jerusalem",
-      "lat": "31.0461",
-      "long": "34.8516"
-    },
-    {
-      "abbr": "IT",
-      "name": "Italy",
-      "capital": "Rome",
-      "lat": "41.8719",
-      "long": "12.5674"
-    },
-    {
-      "abbr": "JM",
-      "name": "Jamaica",
-      "capital": "Kingston",
-      "lat": "18.1096",
-      "long": "77.2975"
-    },
-    {
-      "abbr": "JP",
-      "name": "Japan",
-      "capital": "Tokyo",
-      "lat": "36.2048",
-      "long": "138.2529"
-    },
-    {
-      "abbr": "JE",
-      "name": "Jersey",
-      "capital": "Saint Helier",
-      "lat": "49.2144",
-      "long": "2.1312"
-    }, 
-    {
-      "abbr": "JO",
-      "name": "Jordan",
-      "capital": "Amman",
-      "lat": "30.5852",
-      "long": "36.2384"
-    }, 
-    {
-      "abbr": "KZ",
-      "name": "Kazakhstan",
-      "capital": "Nur-Sultan",
-      "lat": "48.0196",
-      "long": "66.9237"
-    },
-    {
-      "abbr": "KE",
-      "name": "Kenya",
-      "capital": "Nairobi",
-      "lat": "0.0236",
-      "long": "37.9062"
-    },
-    {
-      "abbr": "KI",
-      "name": "Kiribati",
-      "capital": "Tarawa",
-      "lat": "3.3704",
-      "long": "168.7340"
-    },
-    {
-      "abbr": "KR",
-      "name": "Korea, Republic of",
-      "capital": "Seoul",
-      "lat": "35.9078",
-      "long": "127.7669"
-    },
+   
+  {
+    "abbr": "IQ",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "lat": "33.2232",
+    "long": "43.6793"
+  },
+  {
+    "abbr": "IE",
+    "name": "Ireland",
+    "capital": "Unknown",
+    "lat": "53.1424",
+    "long": "7.6921"
+  },
+  {
+    "abbr": "IM",
+    "name": "Isle of Man",
+    "capital": "Douglas",
+    "lat": "54.2361",
+    "long": "4.5481"
+  },
+  {
+    "abbr": "IL",
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "lat": "31.0461",
+    "long": "34.8516"
+  },
+  {
+    "abbr": "IT",
+    "name": "Italy",
+    "capital": "Rome",
+    "lat": "41.8719",
+    "long": "12.5674"
+  },
+  {
+    "abbr": "JM",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "lat": "18.1096",
+    "long": "77.2975"
+  },
+  {
+    "abbr": "JP",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "lat": "36.2048",
+    "long": "138.2529"
+  },
+  {
+    "abbr": "JE",
+    "name": "Jersey",
+    "capital": "Saint Helier",
+    "lat": "49.2144",
+    "long": "2.1312"
+  }, 
+  {
+    "abbr": "JO",
+    "name": "Jordan",
+    "capital": "Amman",
+    "lat": "30.5852",
+    "long": "36.2384"
+  }, 
+  {
+    "abbr": "KZ",
+    "name": "Kazakhstan",
+    "capital": "Nur-Sultan",
+    "lat": "48.0196",
+    "long": "66.9237"
+  },
+  {
+    "abbr": "KE",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "lat": "0.0236",
+    "long": "37.9062"
+  },
+  {
+    "abbr": "KI",
+    "name": "Kiribati",
+    "capital": "Tarawa",
+    "lat": "3.3704",
+    "long": "168.7340"
+  },
+  {
+    "abbr": "KR",
+    "name": "Korea, Republic of",
+    "capital": "Seoul",
+    "lat": "35.9078",
+    "long": "127.7669"
+  },
  
   
   // {name: 'Kuwait', code: 'KW'}, 
@@ -352,93 +413,166 @@
   // {name: 'Tokelau', code: 'TK'}, 
   // {name: 'Tonga', code: 'TO'}, 
   // {name: 'Trinidad and Tobago', code: 'TT'}, 
-  // {name: 'Tunisia', code: 'TN'}, 
-  // {name: 'Turkey', code: 'TR'}, 
-  // {name: 'Turkmenistan', code: 'TM'}, 
-  // {name: 'Turks and Caicos Islands', code: 'TC'}, 
-  // {name: 'Tuvalu', code: 'TV'}, 
-  // {name: 'Uganda', code: 'UG'}, 
-  // {name: 'Ukraine', code: 'UA'}, 
-  // {name: 'United Arab Emirates', code: 'AE'}, 
-  // {name: 'United Kingdom', code: 'GB'}, 
-  // {name: 'United States', code: 'US'}, 
-  // {name: 'United States Minor Outlying Islands', code: 'UM'}, 
-  // {name: 'Uruguay', code: 'UY'}, 
-    {
-      "abbr": "UZ",
-      "name": "Uzbekistan",
-      "capital": "Tashkent",
-      "lat": "41.3775",
-      "long": "64.5853"
-    },
-    {
-      "abbr": "VU",
-      "name": "Vanuatu",
-      "capital": "Port Vila",
-      "lat": "15.3767",
-      "long": "166.9592"
-    }, 
-    {
-      "abbr": "VE",
-      "name": "Venezuela",
-      "capital": "Caracas",
-      "lat": "6.4238",
-      "long": "66.5897"
-    },
-    {
-      "abbr": "VN",
-      "name": "Viet Nam",
-      "capital": "Hanoi",
-      "lat": "14.0583",
-      "long": "108.2772"
-    },
-    {
-      "abbr": "VG",
-      "name": "Virgin Islands, British",
-      "capital": "Road Town",
-      "lat": "18.4207",
-      "long": "64.6400"
-    },
-    {
-      "abbr": "VI",
-      "name": "Virgin Islands, U.S.",
-      "capital": "Charlotte Amalie",
-      "lat": "18.3358",
-      "long": "64.8963"
-    },
-    {
-      "abbr": "WF",
-      "name": "Wallis and Futuna",
-      "capital": "Matā'utu",
-      "lat": "14.2938",
-      "long": "178.1165"
-    },
-    {
-      "abbr": "EH",
-      "name": "Western Sahara",
-      "capital": "Laayoune",
-      "lat": "24.2155",
-      "long": "12.8858"
-    },
-    {
-      "abbr": "YE",
-      "name": "Yemen",
-      "capital": "Sana'a",
-      "lat": "15.5527",
-      "long": "48.5164"
-    },
-    {
-      "abbr": "ZM",
-      "name": "Zambia",
-      "capital": "Lusaka",
-      "lat": "13.1339",
-      "long": "27.8493"
-    },
-    {
-      "abbr": "ZW",
-      "name": "Zimbabwe",
-      "capital": "Harare",
-      "lat": "19.01543",
-      "long": "29.1549"
-    },
+  
+  {
+    "abbr": "TN",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "lat": "33.8869",
+    "long": "9.5375"
+  }, 
+  {
+    "abbr": "TR",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "lat": "38.9637",
+    "long": "35.2433"
+  }, 
+  {
+    "abbr": "TM",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "lat": "38.9697",
+    "long": "59.5563"
+  }, 
+  {
+    "abbr": "TC",
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "lat": "21.6940",
+    "long": "71.7979"
+  }, 
+  {
+    "abbr": "TV",
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "lat": "7.1095",
+    "long": "177.6493"
+  }, 
+  {
+    "abbr": "UG",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "lat": "1.3733",
+    "long": "32.2903"
+  }, 
+  {
+    "abbr": "UA",
+    "name": "Ukraine",
+    "capital": "Kiev",
+    "lat": "48.3794",
+    "long": "31.1656"
+  }, 
+  {
+    "abbr": "AE",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "lat": "23.4241",
+    "long": "53.8478"
+  }, 
+  {
+    "abbr": "GB",
+    "name": "United Kingdom",
+    "capital": "London",
+    "lat": "55.3781",
+    "long": "3.4360"
+  },
+  {
+    "abbr": "US",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "lat": "37.0902",
+    "long": "95.7129"
+  },
+  {
+    "abbr": "UM",
+    "name": "United States Minor Outlying Islands",
+    "capital": "Unkown",
+    "lat": "19.2823",
+    "long": "166.6470"
+  }, 
+  {
+    "abbr": "UY",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "lat": "32.5228",
+    "long": "55.7658"
+  }, 
+  {
+    "abbr": "UZ",
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "lat": "41.3775",
+    "long": "64.5853"
+  },
+  {
+    "abbr": "VU",
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "lat": "15.3767",
+    "long": "166.9592"
+  }, 
+  {
+    "abbr": "VE",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "lat": "6.4238",
+    "long": "66.5897"
+  },
+  {
+    "abbr": "VN",
+    "name": "Viet Nam",
+    "capital": "Hanoi",
+    "lat": "14.0583",
+    "long": "108.2772"
+  },
+  {
+    "abbr": "VG",
+    "name": "Virgin Islands, British",
+    "capital": "Road Town",
+    "lat": "18.4207",
+    "long": "64.6400"
+  },
+  {
+    "abbr": "VI",
+    "name": "Virgin Islands, U.S.",
+    "capital": "Charlotte Amalie",
+    "lat": "18.3358",
+    "long": "64.8963"
+  },
+  {
+    "abbr": "WF",
+    "name": "Wallis and Futuna",
+    "capital": "Matā'utu",
+    "lat": "14.2938",
+    "long": "178.1165"
+  },
+  {
+    "abbr": "EH",
+    "name": "Western Sahara",
+    "capital": "Laayoune",
+    "lat": "24.2155",
+    "long": "12.8858"
+  },
+  {
+    "abbr": "YE",
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "lat": "15.5527",
+    "long": "48.5164"
+  },
+  {
+    "abbr": "ZM",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "lat": "13.1339",
+    "long": "27.8493"
+  },
+  {
+    "abbr": "ZW",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "lat": "19.01543",
+    "long": "29.1549"
+  }
 ]
